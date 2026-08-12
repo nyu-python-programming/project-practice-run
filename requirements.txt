@@ -20,4 +20,4 @@ typed-ast==1.4.1
 virtualenv==20.0.20
 wcwidth==0.1.9
 wrapt==1.12.1
-zipp==3.1.0
+zipp==3.19.1
