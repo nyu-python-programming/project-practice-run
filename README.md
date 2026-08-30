@@ -1,4 +1,4 @@
-# Python Project Practice Run
+# Workflow Exercise - Python Project Practice Run
 
 Welcome to your first Python programming assignment.
 
